@@ -1,5 +1,6 @@
 ## What problem does CopySphere solve?
-Currently, only two main ways of a community contributing to a project
+Currently, only two main ways of a community contributing to a project:
+
 - TODO: FOSS
 - TODO: For-profit controls everything.
 
