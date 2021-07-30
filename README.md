@@ -1,4 +1,4 @@
-# What problem does CopySphere solve?
+## What problem does CopySphere solve?
 Currently, only two main ways of a community contributing to a project:
 
 - TODO: FOSS
@@ -20,14 +20,14 @@ can keep the greed and abuse of the few in check.
 
 First, the person who registers their content makes the initial attribution statement.
     - There are guidelines for common examples of reasonable attribution.
-    - TODO: notes on individual
+    - TODO: notes to explain attribution
     - Attribution can only be to works which have been registered before the new content.
 
+Other accounts may dispute the attribution by proposing their own statement.
 TODO: community tribunal for scalability
 
 Action may be taken against accounts which make statements that are judged to maliciously mis-attribute.
 
-Other accounts may dispute the attribution by
 
 ## FAQ
 
