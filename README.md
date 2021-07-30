@@ -5,7 +5,7 @@ Currently, only two main ways of a community contributing to a project:
 - TODO: For-profit controls everything.
 
 Another problems is that it is not easy to change copyright without
-having to compete with lobbying power of large companies (e.g. Disney) in US Congress.
+having to compete with lobbying power of large companies in US Congress.
 
 ## How does CopySphere solve the problems?
 By having the copyright held by a central non-profit, (the CopySphere organization)
