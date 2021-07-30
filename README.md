@@ -1,4 +1,4 @@
-## What problem does CopySphere solve?
+# What problem does CopySphere solve?
 Currently, only two main ways of a community contributing to a project:
 
 - TODO: FOSS
