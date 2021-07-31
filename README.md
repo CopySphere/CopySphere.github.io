@@ -1,8 +1,8 @@
 ## What problem does CopySphere solve?
 Currently, copyright law is broken and the system needs changing.
 
-There are multiple aspects to this but the specific pain they CopySphere aims to relieve is that,
-there are only two main ways of a community contributing:
+There are multiple aspects to this but the specific pain CopySphere aims to relieve is that
+there are is no middle ground between the two main ways of doing community contribution. Either:
 
 - A for-profit company controls everything. Usually this involves the company
 owning a platform or IP to which they accept contributions to while having full control
@@ -61,7 +61,8 @@ the system being changed such that maximum value is extracted from it,
 rater than there being.
 As an example, the YouTube platform has contributed a great service but
 in recent years has been trending to direct more value to Google rather
-than encouraging high quality content[.](https://www.cartoonbrew.com/ideas-commentary/is-youtube-making-it-harder-for-animators-to-make-money-102408.html) This is likely to continue until
+than encouraging high quality content[.](https://www.cartoonbrew.com/ideas-commentary/is-youtube-making-it-harder-for-animators-to-make-money-102408.html)
+This is likely to continue until
 there is so much adversarial sentiment from viewers/creators
 until there is a equilibrium of people going to other platforms, which is not the ideal state.
 We assert that a system where trust plays a central role
@@ -71,10 +72,9 @@ has to be structurally well aligned with its goal.
 Some uses of content may be against the creators intent,
 such as being included in rule34, gambling, or political speech.
 
-CopySphere allows you to visibly redirect attribution coming to you from tagged sources to charity,
-showing that you do not condone such uses and that you do not want to be seen as profiting off them.
+CopySphere allows you to visibly redirect attribution coming from tagged sources to you, to a charity.
+This allows you to show that you do not condone such uses and that you do not want to be seen as profiting off them.
 
-This allows you do make
 
 ### What content is not allowed?
 Any content that would prevent the system from operating.
@@ -85,7 +85,7 @@ without due diligence on fair use
     - content that is too difficult to process by machine or people (spam / abuse)
 
 ### How will discovery of content work?
-TODO: External for-profit third parties may use the API to surface
+External for-profit third parties may use the API to surface
 content in a way they see fit as long as they keep to the rules of
 reasonable attribution.
 
@@ -113,9 +113,9 @@ It is fundamentally a trade-off. A lower cut would imply:
 Each year, all accounts may indicate on what they think is best.
 Ultimately, the CopySphere organization has to be trusted to make this trade-off reasonably.
 
-### How can I contribute CopySphere?
+## How can I contribute CopySphere?
 Join our discord to have a chat about how you could contribute most efficiently:
-https://discord.com/invite/Yxp7ukeKQ3
+[https://discord.com/invite/Yxp7ukeKQ3](https://discord.com/invite/Yxp7ukeKQ3)
 For business or sensitive inquiries email mikadon.cs 𝖺𝗍 𝗀𝗆𝖺𝗂𝗅.𝖼𝗈𝗆
 
 
