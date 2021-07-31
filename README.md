@@ -1,16 +1,39 @@
 ## What problem does CopySphere solve?
-Currently, only two main ways of a community contributing to a project:
+Currently, copyright law is broken and the system needs changing.
 
-- TODO: FOSS
-- TODO: For-profit controls everything.
+There are multiple aspects to this but the specific pain they CopySphere aims to relieve is that,
+there are only two main ways of a community contributing:
 
-Another problems is that it is not easy to change copyright without
+- A for-profit company controls everything. Usually this involves the company
+owning a platform or IP to which they accept contributions to while having full control
+about how revenue due to contributions is distributed. This tends to be heavily favored towards the company.
+Most commonly in video game development,
+people creating mods for a game stick to publishing their content for free
+while only driving revenue to the original game creator.
+The path to gain revenue for modders is often blocked and requires significant
+investment to effectively re-implement the game that it is a mod on.
+Another example would be the music and video industry and how it is difficult to publish
+fair use remixes without needing to be or hire an expert in copyright law,
+otherwise being under threat of having revenue cut off unfairly.
+
+- Everything is free. This is often seen within Open Source communities.
+These communities tend to have problems scaling. There is only so much time
+people can spend without needing to worry about paying bills and it is difficult
+to extract money from altering something that is published for free.
+
+Another compounding factor is that it is not easy to change copyright law without
 having to compete with lobbying power of large companies in US Congress.
 
 ## How does CopySphere solve the problems?
 By having the copyright held by a central non-profit, (the CopySphere organization)
-we can use standard contracts to allow easy remixing of content
+we can use standard contracts to encourage easy remixing of content
 while also ensuring that reasonable monetary attribution is given.
+This means that creators are empowered to create content that they
+receive money for without needing to spend significant time and resources to establish
+business relations with other content creators.
+
+By establishing a this new system of copyright, we do not have to convince the minds
+of legislators that this model is better before people gain the benefit of it.
 
 ## What defines reasonable attribution?
 Foreword:
@@ -38,7 +61,7 @@ the system being changed such that maximum value is extracted from it,
 rater than there being.
 As an example, the YouTube platform has contributed a great service but
 in recent years has been trending to direct more value to Google rather
-than encouraging high quality content. This is likely to continue until
+than encouraging high quality content[.](https://www.cartoonbrew.com/ideas-commentary/is-youtube-making-it-harder-for-animators-to-make-money-102408.html) This is likely to continue until
 there is so much adversarial sentiment from viewers/creators
 until there is a equilibrium of people going to other platforms, which is not the ideal state.
 We assert that a system where trust plays a central role
