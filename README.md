@@ -117,7 +117,7 @@ Ultimately, the CopySphere organization has to be trusted to make this trade-off
 Join our discord to have a chat about how you could contribute most efficiently:
 [https://discord.com/invite/Yxp7ukeKQ3](https://discord.com/invite/Yxp7ukeKQ3)
 
-For business or sensitive inquiries email mikadon 𝖺𝗍 copysphere.com
+For business or sensitive inquiries email mikadon 𝖺𝗍 copysphere.org
 
 
 ~Mik Adon, Jul 2021
