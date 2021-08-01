@@ -116,7 +116,8 @@ Ultimately, the CopySphere organization has to be trusted to make this trade-off
 ## How can I contribute CopySphere?
 Join our discord to have a chat about how you could contribute most efficiently:
 [https://discord.com/invite/Yxp7ukeKQ3](https://discord.com/invite/Yxp7ukeKQ3)
-For business or sensitive inquiries email mikadon.cs 𝖺𝗍 𝗀𝗆𝖺𝗂𝗅.𝖼𝗈𝗆
+
+For business or sensitive inquiries email mikadon 𝖺𝗍 copysphere.com
 
 
 ~Mik Adon, Jul 2021
