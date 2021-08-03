@@ -114,7 +114,7 @@ Each year, all accounts may indicate on what they think is best.
 Ultimately, the CopySphere organization has to be trusted to make this trade-off reasonably.
 
 ## How can I contribute CopySphere?
-Join our discord to have a chat about how you could contribute most efficiently:
+Join our discord to have a chat about how we could work together most efficiently:
 [https://discord.com/invite/Yxp7ukeKQ3](https://discord.com/invite/Yxp7ukeKQ3)
 
 For business or sensitive inquiries email mikadon 𝖺𝗍 copysphere.org
