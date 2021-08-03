@@ -71,9 +71,10 @@ has to be structurally well aligned with its goal.
 ### How do I prevent controversial remixes of my content?
 Some uses of content may be against the creators intent,
 such as being included in rule34, gambling, or political speech.
-
 CopySphere allows you to visibly redirect attribution coming from tagged sources to you, to a charity.
 This allows you to show that you do not condone such uses and that you do not want to be seen as profiting off them.
+
+![The Creator of Matui may redirect attribution coming from undesirable sources](assets/images/AttributionRedirection.png)
 
 
 ### What content is not allowed?
