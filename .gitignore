@@ -1,1 +1,6 @@
 .DS_Store
+
+# jekyll / github-pages
+.bundle
+.jekyll-cache
+_site
